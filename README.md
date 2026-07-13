@@ -183,7 +183,7 @@ docker run -p 8000:8000 customer-churn
 ---
 
 ## 👨‍💻 Author
-
+**Vidyanidhi G Shetty**
 **Computer Science Engineering (Data Science)**
 
 This project was developed as part of a machine learning learning and deployment workflow using FastAPI, MLflow, Docker, and XGBoost.
